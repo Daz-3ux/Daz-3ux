@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lin3ux
 - 👀 I’m interested in c/c++/linux
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c && linux
 - 📫 You can touch me by yyn_linlin@foxmail.com
 
 <!---
