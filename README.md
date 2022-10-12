@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daz
-- 👀 I’m interested in c/c++/linux
-- 🌱 I’m currently learning c++ && linux
-- 📫 You can touch me by yyn_linlin@xiyoulinux.org
+- 👀 I’m interested linux/OS
+- 🌱 I’m currently learning c++ && OS
+- 📫 You can touch me by Daz-3ux@proton.me
 
 
 ![ypd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daz-3ux&count_private=true&show_icons=true&theme=solarized-light)
