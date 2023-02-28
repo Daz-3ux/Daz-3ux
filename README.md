@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daz
-- 👀 I’m interested linux/OS
-- 🌱 I’m currently learning c++ && Go && OS
+- 👀 I’m interested Linux/OS
+- 🌱 I’m currently learning C++ && Go && OS
 - 📫 You can touch me by Daz-3ux@proton.me
 
 
