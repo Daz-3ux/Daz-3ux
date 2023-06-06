@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Daz
 - 👀 I’m interested Linux/OS
-- 🌱 I’m currently learning (
-          C++ && Go && Python
-          OS  && K8s
-          Redis
+- 🌱 I’m currently learning (  
+          C++ && Go && Python  
+          OS  && K8s  
+          Redis  
 )
 - 📫 You can touch me by Daz-3ux@proton.me
 
